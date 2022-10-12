@@ -16,10 +16,10 @@ Codes will be updated according their refresh time (30s by default).
 
 ## Remarks
 
-The app use [Spectre Console]() package, so it is better to use the app with unicode/ligatures fonts.
+The app use [Spectre Console](https://spectreconsole.net/) package, so it is better to use the app with unicode/ligatures fonts.
 
 ## Security issues
 
-__As written almost everywhere in this repo, the secret key is stored in clear on a text file, so use the application on private computer, and be careful, nothing is safe.__
+__As written almost everywhere in this repo, the secret key is stored in clear on a text file, so do not use the application, it is stupid because nothing is safe.__
 
 __NO RESPONSIBILITY TAKEN__
